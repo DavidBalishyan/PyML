@@ -5,9 +5,5 @@ scikit-learn
 seaborn
 jupyterlab
 plotly
-requests
 tensorflow
-keras
-torch
-tensorflow 
 tensorflow-gpu
