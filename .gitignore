@@ -3,4 +3,4 @@ data.csv
 .vscode
 .idea
 __pycache__
-*.test
+*.ignore
