@@ -9,4 +9,4 @@ https://colab.research.google.com/github/DavidBalishyan/PyML/blob/main/main.ipyn
 
 1. <a href="https://github.com/MIhrhah">Mihran Miqaelyan</a>
 </br>
-2. <a href="https://github.com/Gurgen2012">Gurgen Aghajanyan (debil)</a>
+2. <a href="https://github.com/Gurgen2012">Gurgen Aghajanyan</a>
